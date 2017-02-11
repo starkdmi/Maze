@@ -1,0 +1,44 @@
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\bin\Debug\Bludiště.exe
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\bin\Debug\Bludiště.pdb
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\bin\Debug\Bludiště.xml
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.exe
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.xml
+C:\Users\student\AppData\Local\Temporary Projects\Bludiště\obj\x86\Debug\Bludiště.pdb
+C:\Users\student\Documents\T1\Bludiště\Bludiště\obj\x86\Debug\Bludiště.exe
+C:\Users\student\Documents\T1\Bludiště\Bludiště\obj\x86\Debug\Bludiště.xml
+C:\Users\student\Documents\T1\Bludiště\Bludiště\obj\x86\Debug\Bludiště.pdb
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.exe
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.xml
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.pdb
+C:\Users\старков\Desktop\Bludiště\Bludiště\bin\Debug\Bludiště.exe
+C:\Users\старков\Desktop\Bludiště\Bludiště\bin\Debug\Bludiště.pdb
+C:\Users\старков\Desktop\Bludiště\Bludiště\bin\Debug\Bludiště.xml
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.vbprojResolveAssemblyReference.cache
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.Form1.resources
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.Resources.resources
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.vbproj.GenerateResource.Cache
+C:\Users\старков\Desktop\Bludiště\Bludiště\obj\x86\Debug\Bludiště.Labirint.resources
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.exe
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.xml
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.pdb
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\bin\Debug\Bludiště.exe
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\bin\Debug\Bludiště.pdb
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\bin\Debug\Bludiště.xml
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.vbprojResolveAssemblyReference.cache
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.Form1.resources
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.Labirint.resources
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.Resources.resources
+C:\Users\student\Documents\OLD\T2\Starkov\Labirint\Bludiště\obj\x86\Debug\Bludiště.vbproj.GenerateResource.Cache
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.exe
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.xml
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.pdb
+C:\Users\старков\Desktop\Labirint2\Bludiště\bin\Debug\Bludiště.exe
+C:\Users\старков\Desktop\Labirint2\Bludiště\bin\Debug\Bludiště.pdb
+C:\Users\старков\Desktop\Labirint2\Bludiště\bin\Debug\Bludiště.xml
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.vbprojResolveAssemblyReference.cache
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.Resources.resources
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.vbproj.GenerateResource.Cache
+C:\Users\старков\Desktop\Labirint2\Bludiště\obj\x86\Debug\Bludiště.MainForm.resources
