@@ -1,6 +1,4 @@
 # Maze
-<br/>
-
 Game process<br/>
 ![](temp/1.bmp?raw=true "Game screenshot")
 <br/>
